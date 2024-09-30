@@ -1,6 +1,12 @@
 # Canvas Text Editor
 
-[Download Video Demo](./src/assets/ABCD.mp4)
+
+
+
+
+
+https://github.com/user-attachments/assets/c1ec99c3-c61f-4859-b2f8-d23400c142fb
+
 
 ## Project Description
 
